@@ -7,9 +7,9 @@
 # [end-readme]
 
 echo "JavaScript TODOs"
-grep -R TODO . --include "*.js" --exclude-dir=node_modules
+rg --line-number --glob '*.js' --glob '*.ts' 'TODO' . --glob '!node_modules/**'
 
 echo
-echo
+
 echo "Stylesheet TODOs"
-grep -R TODO . --include "*.*css" --exclude-dir=node_modules
+rg --line-number --glob '*.*css' 'TODO' . --glob '!node_modules/**'
