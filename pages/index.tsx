@@ -14,8 +14,8 @@ import { LinkExternalIcon } from '@primer/octicons-react'
 import { useRouter } from 'next/router'
 import { OctocatHeader } from 'components/landing/OctocatHeader'
 import { ArticleList } from 'components/landing/ArticleList'
+import { JobCardPreview } from 'components/landing/JobCardPreview'
 import { Search } from 'components/Search'
-import Link from 'next/link'
 
 type FeaturedLink = {
   href: string
@@ -74,6 +74,8 @@ function LandingPage(props: LandingPageProps) {
         </Search>
       </section>
 
+      <JobCardPreview />
+
       {/* <!-- Explore by product --> */}
       <section className="container-xl pb-lg-4 my-8 px-3 px-md-6">
         <div className="">
@@ -113,17 +115,6 @@ function LandingPage(props: LandingPageProps) {
       </section>
 
       <div className="px-3 px-md-6 container-xl">
-        <div className="container-xl mb-5">
-          <div className="border rounded-2 p-4 color-bg-subtle">
-            <h2 className="h4 mb-2">Новый UX-демо экран: карточка вакансии</h2>
-            <p className="color-text-secondary mb-3">
-              Открыть пример интеграции карточки с зарплатой, локацией и фиксированным CTA.
-            </p>
-            <Link href="/job-card-demo">
-              <a className="btn btn-primary">Открыть демо</a>
-            </Link>
-          </div>
-        </div>
         <div className="container-xl">
           <div className="gutter gutter-xl-spacious clearfix">
             <div className="col-12 col-lg-6 mb-md-4 mb-lg-0 float-left">
