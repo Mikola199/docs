@@ -1,0 +1,32 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#F6F8FA"/>
+  <rect x="0" y="0" width="1200" height="220" fill="#EAF5FF"/>
+  <text x="90" y="86" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#24292F">Первая страница с интегрированной карточкой вакансии</text>
+  <rect x="90" y="120" width="540" height="52" rx="8" fill="white" stroke="#D0D7DE"/>
+  <text x="112" y="153" font-family="Arial, sans-serif" font-size="22" fill="#57606A">Поиск по документации...</text>
+
+  <rect x="90" y="250" width="1020" height="430" rx="16" fill="white" stroke="#D0D7DE"/>
+  <text x="130" y="315" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#24292F">Senior Frontend Engineer</text>
+  <circle cx="146" cy="362" r="15" fill="#0969DA"/>
+  <text x="174" y="370" font-family="Arial, sans-serif" font-size="24" fill="#24292F">Acme Tech</text>
+
+  <rect x="130" y="394" width="100" height="34" rx="17" fill="#EAEEF2"/>
+  <text x="158" y="416" font-family="Arial, sans-serif" font-size="16" fill="#24292F">Berlin</text>
+  <rect x="240" y="394" width="110" height="34" rx="17" fill="#EAEEF2"/>
+  <text x="268" y="416" font-family="Arial, sans-serif" font-size="16" fill="#24292F">Remote</text>
+
+  <text x="780" y="344" font-family="Arial, sans-serif" font-size="18" fill="#57606A">Заработок</text>
+  <text x="750" y="378" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#1A7F37">$5,500 – $7,500</text>
+  <rect x="860" y="392" width="115" height="32" rx="16" fill="#DA3633"/>
+  <text x="885" y="413" font-family="Arial, sans-serif" font-size="14" fill="white">High pay</text>
+
+  <line x1="130" y1="470" x2="1070" y2="470" stroke="#D8DEE4"/>
+  <text x="130" y="530" font-family="Arial, sans-serif" font-size="30">💼</text>
+  <text x="172" y="530" font-family="Arial, sans-serif" font-size="24" fill="#24292F">Полная занятость</text>
+
+  <rect x="860" y="492" width="210" height="58" rx="8" fill="#1F6FEB"/>
+  <text x="905" y="528" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="white">Откликнуться</text>
+
+  <rect x="130" y="620" width="940" height="36" rx="8" fill="#1F6FEB"/>
+  <text x="438" y="644" font-family="Arial, sans-serif" font-size="18" fill="white">Sticky CTA остается видимой при скролле</text>
+</svg>

@@ -14,6 +14,7 @@ import { LinkExternalIcon } from '@primer/octicons-react'
 import { useRouter } from 'next/router'
 import { OctocatHeader } from 'components/landing/OctocatHeader'
 import { ArticleList } from 'components/landing/ArticleList'
+import { JobCardPreview } from 'components/landing/JobCardPreview'
 import { Search } from 'components/Search'
 
 type FeaturedLink = {
@@ -72,6 +73,8 @@ function LandingPage(props: LandingPageProps) {
           }}
         </Search>
       </section>
+
+      <JobCardPreview />
 
       {/* <!-- Explore by product --> */}
       <section className="container-xl pb-lg-4 my-8 px-3 px-md-6">
