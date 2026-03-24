@@ -1,0 +1,22 @@
+<svg width="920" height="540" viewBox="0 0 920 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="920" height="540" fill="#F6F8FA"/>
+  <rect x="60" y="50" width="800" height="440" rx="16" fill="white" stroke="#D0D7DE"/>
+  <text x="90" y="110" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#24292F">Senior Frontend Engineer</text>
+  <circle cx="102" cy="155" r="14" fill="#0969DA"/>
+  <text x="126" y="162" font-family="Arial, sans-serif" font-size="22" fill="#24292F">Acme Tech</text>
+  <rect x="90" y="182" width="100" height="34" rx="17" fill="#EAEEF2"/>
+  <text x="118" y="204" font-family="Arial, sans-serif" font-size="16" fill="#24292F">Berlin</text>
+  <rect x="200" y="182" width="110" height="34" rx="17" fill="#EAEEF2"/>
+  <text x="228" y="204" font-family="Arial, sans-serif" font-size="16" fill="#24292F">Remote</text>
+  <text x="640" y="135" font-family="Arial, sans-serif" font-size="18" fill="#57606A">Заработок</text>
+  <text x="610" y="170" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#1A7F37">$5,500 – $7,500</text>
+  <rect x="705" y="184" width="115" height="32" rx="16" fill="#DA3633"/>
+  <text x="730" y="205" font-family="Arial, sans-serif" font-size="14" fill="white">High pay</text>
+  <line x1="90" y1="260" x2="830" y2="260" stroke="#D8DEE4"/>
+  <text x="90" y="320" font-family="Arial, sans-serif" font-size="28">💼</text>
+  <text x="130" y="320" font-family="Arial, sans-serif" font-size="24" fill="#24292F">Полная занятость</text>
+  <rect x="620" y="286" width="210" height="56" rx="8" fill="#1F6FEB"/>
+  <text x="666" y="322" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="white">Откликнуться</text>
+  <rect x="60" y="500" width="800" height="28" fill="#1F6FEB"/>
+  <text x="335" y="520" font-family="Arial, sans-serif" font-size="15" fill="white">Sticky CTA остаётся видимой при скролле</text>
+</svg>
